@@ -23,7 +23,7 @@
     "minimatch": "~0.3.0"
   },
   "peerDependencies": {
-    "istanbul": "~0.3.0",
+    "istanbul": "~0.4.0",
     "karma": ">=0.9"
   },
   "license": "MIT",
